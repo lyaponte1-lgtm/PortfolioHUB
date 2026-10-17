@@ -6,4 +6,4 @@ def main ():
     calcular(base, altura)
     print('area do triangulo:', calcular(base, altura))
 if __name__ == '__main__':
-main()
+    main()
